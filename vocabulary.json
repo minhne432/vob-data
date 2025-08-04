@@ -1,0 +1,3510 @@
+{
+  "education": [
+    {
+      "level": "A2",
+      "word": "classroom",
+      "meaning": "phòng học",
+      "english_meaning": "A room where a class of students is taught.",
+      "example": "Our classroom is very clean.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "teacher",
+      "meaning": "giáo viên",
+      "english_meaning": "A person who teaches, especially in a school.",
+      "example": "The teacher is kind and helpful.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "homework",
+      "meaning": "bài tập về nhà",
+      "english_meaning": "School work that a student is required to do at home.",
+      "example": "I need to finish my homework today.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "student",
+      "meaning": "học sinh",
+      "english_meaning": "A person who is studying at a school or college.",
+      "example": "The student raised her hand to ask a question.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "exam",
+      "meaning": "kỳ thi",
+      "english_meaning": "A formal written, spoken or practical test.",
+      "example": "I passed the math exam with good marks.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "book",
+      "meaning": "sách",
+      "english_meaning": "A written or printed work consisting of pages.",
+      "example": "I read a book about animals.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "desk",
+      "meaning": "bàn học",
+      "english_meaning": "A piece of furniture with a flat top for working at.",
+      "example": "The desk is full of papers.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "pencil",
+      "meaning": "bút chì",
+      "english_meaning": "An instrument for writing or drawing.",
+      "example": "Can I borrow a pencil?",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "school",
+      "meaning": "trường học",
+      "english_meaning": "An institution for educating children.",
+      "example": "The school is very big.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "lesson",
+      "meaning": "bài học",
+      "english_meaning": "A period of time in which a person is taught about a subject.",
+      "example": "Today's lesson is about history.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "assignment",
+      "meaning": "bài tập lớn",
+      "english_meaning": "A task or piece of work allocated to someone as part of a job or course of study.",
+      "example": "The assignment is due next Monday.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "lecture",
+      "meaning": "bài giảng",
+      "english_meaning": "An educational talk to an audience, especially one of students in a university.",
+      "example": "The lecture was about world history.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "tutor",
+      "meaning": "gia sư",
+      "english_meaning": "A private teacher, typically one who teaches a single student or a very small group.",
+      "example": "My tutor helped me understand algebra.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "curriculum",
+      "meaning": "chương trình học",
+      "english_meaning": "The subjects comprising a course of study in a school or college.",
+      "example": "The curriculum includes practical lessons.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "grade",
+      "meaning": "điểm số",
+      "english_meaning": "A mark indicating the quality of a student's work.",
+      "example": "I got a good grade on my essay.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "project",
+      "meaning": "dự án",
+      "english_meaning": "An individual or collaborative enterprise that is carefully planned to achieve a particular aim.",
+      "example": "Our project is about renewable energy.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "notebook",
+      "meaning": "sổ tay",
+      "english_meaning": "A small book with blank or ruled pages for writing notes in.",
+      "example": "I wrote notes in my notebook.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "presentation",
+      "meaning": "bài thuyết trình",
+      "english_meaning": "A speech or talk in which a new product, idea, or piece of work is shown and explained.",
+      "example": "Her presentation was impressive.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "questionnaire",
+      "meaning": "bảng câu hỏi",
+      "english_meaning": "A set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study.",
+      "example": "The questionnaire was easy to complete.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "revision",
+      "meaning": "ôn tập",
+      "english_meaning": "The action of revising.",
+      "example": "I spent the weekend on revision.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "scholarship",
+      "meaning": "học bổng",
+      "english_meaning": "A grant or payment made to support a student's education, awarded on the basis of academic or other achievement.",
+      "example": "She received a scholarship to study abroad.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "university",
+      "meaning": "đại học",
+      "english_meaning": "A high-level educational institution in which students study for degrees and academic research is done.",
+      "example": "He graduated from a prestigious university.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "discipline",
+      "meaning": "kỷ luật",
+      "english_meaning": "The practice of training people to obey rules or a code of behavior.",
+      "example": "Discipline is key to success.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "research",
+      "meaning": "nghiên cứu",
+      "english_meaning": "The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+      "example": "The research took five years.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "thesis",
+      "meaning": "luận văn",
+      "english_meaning": "A long essay or dissertation involving personal research, written by a candidate for a university degree.",
+      "example": "Her thesis was on renewable energy.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "internship",
+      "meaning": "thực tập",
+      "english_meaning": "A temporary position with an emphasis on on-the-job training rather than merely employment.",
+      "example": "The internship gave me practical experience.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "seminar",
+      "meaning": "hội thảo",
+      "english_meaning": "A conference or other meeting for discussion or training.",
+      "example": "I attended a seminar on technology.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "statistics",
+      "meaning": "thống kê",
+      "english_meaning": "The practice or science of collecting and analyzing numerical data in large quantities.",
+      "example": "The statistics show a clear trend.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "analysis",
+      "meaning": "phân tích",
+      "english_meaning": "Detailed examination of the elements or structure of something.",
+      "example": "The analysis provided new insights.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "reference",
+      "meaning": "tài liệu tham khảo",
+      "english_meaning": "A source of information in order to ascertain something.",
+      "example": "Use references to support your argument.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "pedagogy",
+      "meaning": "giáo dục học",
+      "english_meaning": "The method and practice of teaching, especially as an academic subject or theoretical concept.",
+      "example": "Pedagogy is the art of teaching.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "academic",
+      "meaning": "học thuật",
+      "english_meaning": "Relating to education and scholarship.",
+      "example": "The academic year starts in September.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "plagiarism",
+      "meaning": "đạo văn",
+      "english_meaning": "The practice of taking someone else's work or ideas and passing them off as one's own.",
+      "example": "Plagiarism is a serious offense.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "dissertation",
+      "meaning": "luận án",
+      "english_meaning": "A long essay on a particular subject, especially one written for a university degree or diploma.",
+      "example": "He defended his dissertation.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "syllabus",
+      "meaning": "giáo trình",
+      "english_meaning": "An outline of the subjects in a course of study or teaching.",
+      "example": "The syllabus outlines topics.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "multilingual",
+      "meaning": "đa ngôn ngữ",
+      "english_meaning": "Speaking several languages.",
+      "example": "She is multilingual and speaks five languages.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "conceptualize",
+      "meaning": "hình thành khái niệm",
+      "english_meaning": "Form a concept or idea of (something).",
+      "example": "We need to conceptualize the idea before starting.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "methodology",
+      "meaning": "phương pháp luận",
+      "english_meaning": "A system of methods used in a particular area of study or activity.",
+      "example": "The methodology was clearly explained.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "bibliography",
+      "meaning": "thư mục",
+      "english_meaning": "A list of the books referred to in a scholarly work.",
+      "example": "The bibliography includes all the references used.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "evaluation",
+      "meaning": "đánh giá",
+      "english_meaning": "The making of a judgment about the amount, number, or value of something; assessment.",
+      "example": "The evaluation process was fair.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "assessment",
+      "meaning": "bài đánh giá",
+      "english_meaning": "The evaluation or estimation of the nature, quality, or ability of someone or something.",
+      "example": "We conduct an assessment at the beginning of the school year.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "certificate",
+      "meaning": "chứng nhận",
+      "english_meaning": "An official document attesting a certain fact, in particular.",
+      "example": "A student with a specific learning difficulty may need extra support.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "diploma",
+      "meaning": "chứng chỉ",
+      "english_meaning": "A certificate awarded by an educational establishment to show that someone has successfully completed a course of study.",
+      "example": "He has a diploma in hotel management.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "examination",
+      "meaning": "kỳ thi",
+      "english_meaning": "A formal test of a person's knowledge or proficiency in a subject or skill.",
+      "example": "Candidates are sorted out based on the results of a competitive examination.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "exchange",
+      "meaning": "kỳ trao đổi",
+      "english_meaning": "An act of giving one thing and receiving another (especially of the same type or value) in return.",
+      "example": "Our college has an exchange programme with one in Singapore.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "graduation",
+      "meaning": "tốt nghiệp",
+      "english_meaning": "The successful completion of a course of study at a university, college, or school, for which you receive a degree or diploma.",
+      "example": "Some students struggle to find a good job after graduation.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "lecturer",
+      "meaning": "giảng viên",
+      "english_meaning": "A person who gives lectures, especially as a profession.",
+      "example": "Dr John is the lecturer of this course.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "semester",
+      "meaning": "học kỳ",
+      "english_meaning": "A half-year term in a school or university, especially in North America, typically from September to December and January to May.",
+      "example": "We have 5 subjects this semester.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "calculate",
+      "meaning": "tính toán",
+      "english_meaning": "Determine (the amount or number of something) mathematically.",
+      "example": "There are tips that could help you calculate faster.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "educate",
+      "meaning": "giáo dục",
+      "english_meaning": "Give intellectual, moral, and social instruction to (someone), especially a child, typically at a school or university.",
+      "example": "Students need to be educated on the dangers of driving without wearing helmets.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "mark",
+      "meaning": "chấm điểm",
+      "english_meaning": "A point awarded for a correct answer or for proficiency in an examination or competition.",
+      "example": "I hate marking written exam papers.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "memorise",
+      "meaning": "học thuộc",
+      "english_meaning": "Commit to memory; learn by heart.",
+      "example": "It is quite important to memorise all the maths formulas.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "present",
+      "meaning": "trao",
+      "english_meaning": "Give or award formally or ceremonially.",
+      "example": "The principal presents the degree to the graduates.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "qualify",
+      "meaning": "đạt tiêu chuẩn",
+      "english_meaning": "Be entitled to a particular benefit or privilege by fulfilling a necessary condition.",
+      "example": "If you have DELTA, you do qualify to teach English.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "revise",
+      "meaning": "ôn tập",
+      "english_meaning": "Examine and make corrections or alterations to (written or printed matter).",
+      "example": "Do you think you can revise everything before the exam?",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "score",
+      "meaning": "đạt được điểm",
+      "english_meaning": "The number of points, goals, runs, etc. achieved in a game or competition.",
+      "example": "He scored 9 in the English test.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "sponsor",
+      "meaning": "tài trợ",
+      "english_meaning": "Provide funds for (a project or activity or the person carrying it out).",
+      "example": "Students who excel in sports tend to be sponsored by colleges.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "compulsory",
+      "meaning": "bắt buộc",
+      "english_meaning": "Required by law or a rule; obligatory.",
+      "example": "English is a compulsory subject at our school.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "complicated",
+      "meaning": "phức tạp",
+      "english_meaning": "Consisting of many interconnecting parts or elements; intricate.",
+      "example": "Some of the maths exercises were quite complicated.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "educational",
+      "meaning": "liên quan đến giáo dục",
+      "english_meaning": "Relating to the provision of education.",
+      "example": "The organisation fought for women's educational rights.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "logical",
+      "meaning": "hợp lý, có tính logic",
+      "english_meaning": "Of or according to the rules of logic or formal argument.",
+      "example": "At our centre, students practise constructing logical arguments daily.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "multiple-choice",
+      "meaning": "nhiều lựa chọn",
+      "english_meaning": "(Of a question) accompanied by several possible answers, from which the candidate must choose the correct one.",
+      "example": "The national English university entrance exam contains 50 multiple-choice items.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "primary",
+      "meaning": "căn bản, chính",
+      "english_meaning": "Of chief importance; principal.",
+      "example": "The primary aim of this lesson is to improve your writing skills.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "comprehensible",
+      "meaning": "dễ hiểu",
+      "english_meaning": "Able to be understood; intelligible.",
+      "example": "His writing is quite comprehensible and well-organised.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "practical",
+      "meaning": "thực tế",
+      "english_meaning": "Of or concerned with the actual doing or use of something rather than with theory and ideas.",
+      "example": "The exercises need to be practical.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "reliable",
+      "meaning": "đáng tin cậy",
+      "english_meaning": "Consistently good in quality or performance; able to be trusted.",
+      "example": "Is the test result reliable?",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "higher education",
+      "meaning": "giáo dục đại học",
+      "english_meaning": "Education beyond secondary level, especially at a college or university.",
+      "example": "I want to pursue higher education in the UK.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "general knowledge",
+      "meaning": "kiến thức phổ thông",
+      "english_meaning": "Knowledge of a broad range of subjects.",
+      "example": "Unlike universities, the majority of schools focus on general knowledge.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "learning difficulties",
+      "meaning": "những hạn chế học tập",
+      "english_meaning": "A condition in the brain that causes difficulties comprehending or processing information.",
+      "example": "Dyslexia is a common learning difficulty.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "virtual learning",
+      "meaning": "học tập trực tuyến",
+      "english_meaning": "Learning conducted via electronic media, typically on the Internet.",
+      "example": "During the pandemic, most education institutions switched to virtual learning.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "learning platform",
+      "meaning": "nền tảng học tập",
+      "english_meaning": "An integrated set of interactive online services that provide trainers, learners, and others involved in education with information, tools, and resources to support and enhance education delivery and management.",
+      "example": "Teachers could use a learning platform to assign homework for students.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "learning materials",
+      "meaning": "tài liệu học tập",
+      "english_meaning": "Any resource—including print and non-print materials and online/digital resources—a teacher uses to help students learn.",
+      "example": "Our learning materials are provided by the faculty.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "vocational school",
+      "meaning": "trường nghề",
+      "english_meaning": "A school where students are taught the skills they need to do a particular job.",
+      "example": "Students can study at vocational schools for free.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "tuition fees",
+      "meaning": "học phí",
+      "english_meaning": "A fee paid for instruction, especially at a college or private school.",
+      "example": "Many colleges have raised their tuition fees.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "physical education",
+      "meaning": "giáo dục thể chất",
+      "english_meaning": "Instruction in physical exercise and games, especially in schools.",
+      "example": "Several students struggle with passing physical education courses.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "soft skills",
+      "meaning": "kỹ năng mềm",
+      "english_meaning": "Personal attributes that enable someone to interact effectively and harmoniously with other people.",
+      "example": "Students should practise soft skills, such as presentation skills and problem-solving skills.",
+      "isDifficult": false
+    }
+  ],
+  "work": [
+    {
+      "level": "A2",
+      "word": "job",
+      "meaning": "công việc",
+      "english_meaning": "A paid position of regular employment.",
+      "example": "She found a new job.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "office",
+      "meaning": "văn phòng",
+      "english_meaning": "A room or building used as a place for commercial, professional, or bureaucratic work.",
+      "example": "The office is open from 9 to 5.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "manager",
+      "meaning": "quản lý",
+      "english_meaning": "A person responsible for controlling or administering an organization or group of staff.",
+      "example": "The manager approved the plan.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "employee",
+      "meaning": "nhân viên",
+      "english_meaning": "A person employed for wages or salary.",
+      "example": "The employee completed the task on time.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "task",
+      "meaning": "nhiệm vụ",
+      "english_meaning": "A piece of work to be done or undertaken.",
+      "example": "This task is quite challenging.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "boss",
+      "meaning": "sếp",
+      "english_meaning": "A person in charge of a worker or organization.",
+      "example": "Her boss is very supportive.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "salary",
+      "meaning": "lương",
+      "english_meaning": "A fixed regular payment from an employer to an employee.",
+      "example": "He earns a high salary.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "team",
+      "meaning": "đội nhóm",
+      "english_meaning": "A group of people who work together.",
+      "example": "Our team is very cooperative.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "work",
+      "meaning": "làm việc",
+      "english_meaning": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
+      "example": "They work hard every day.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "break",
+      "meaning": "giờ nghỉ",
+      "english_meaning": "A short period of rest from work.",
+      "example": "We take a short break after lunch.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "colleague",
+      "meaning": "đồng nghiệp",
+      "english_meaning": "A person with whom one works in a profession or business.",
+      "example": "My colleague is very friendly.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "deadline",
+      "meaning": "hạn chót",
+      "english_meaning": "The latest time or date by which something should be completed.",
+      "example": "We have to meet the deadline by Friday.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "meeting",
+      "meaning": "cuộc họp",
+      "english_meaning": "An occasion when people come together to discuss or decide something.",
+      "example": "The meeting starts at 10 a.m.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "presentation",
+      "meaning": "bài thuyết trình",
+      "english_meaning": "A speech or talk in which a new product, idea, or piece of work is shown and explained to an audience.",
+      "example": "Her presentation was very detailed.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "promotion",
+      "meaning": "thăng chức",
+      "english_meaning": "The action of raising someone to a higher position or rank.",
+      "example": "He got a promotion last month.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "schedule",
+      "meaning": "lịch trình",
+      "english_meaning": "A plan for carrying out a process or procedure, giving lists of intended events and times.",
+      "example": "My schedule is fully booked.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "project",
+      "meaning": "dự án",
+      "english_meaning": "An individual or collaborative enterprise that is carefully planned to achieve a particular aim.",
+      "example": "The project is almost finished.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "taskforce",
+      "meaning": "lực lượng nhiệm vụ",
+      "english_meaning": "A group of people brought together to work on a particular task.",
+      "example": "The taskforce handled the emergency well.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "training",
+      "meaning": "đào tạo",
+      "english_meaning": "The action of teaching a person a particular skill or type of behavior.",
+      "example": "The training session was very informative.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "report",
+      "meaning": "báo cáo",
+      "english_meaning": "A written account of something that one has observed, heard, done, or investigated.",
+      "example": "I submitted the report yesterday.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "internship",
+      "meaning": "thực tập",
+      "english_meaning": "A temporary position with an emphasis on on-the-job training.",
+      "example": "The internship provided me with valuable experience.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "job satisfaction",
+      "meaning": "sự hài lòng trong công việc",
+      "english_meaning": "A feeling of fulfillment or enjoyment that a person derives from their job.",
+      "example": "Job satisfaction is essential for productivity.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "networking",
+      "meaning": "mạng lưới quan hệ",
+      "english_meaning": "The action or process of interacting with others to exchange information and develop professional or social contacts.",
+      "example": "Networking is important in this industry.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "workplace",
+      "meaning": "nơi làm việc",
+      "english_meaning": "A place where people work, such as an office or factory.",
+      "example": "The workplace environment is friendly.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "contract",
+      "meaning": "hợp đồng",
+      "english_meaning": "A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.",
+      "example": "He signed the contract yesterday.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "performance",
+      "meaning": "hiệu suất",
+      "english_meaning": "The accomplishment of a given task measured against preset known standards of accuracy, completeness, cost, and speed.",
+      "example": "Her performance exceeded expectations.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "resignation",
+      "meaning": "sự từ chức",
+      "english_meaning": "An act of retiring or giving up a position.",
+      "example": "His resignation surprised everyone.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "negotiation",
+      "meaning": "đàm phán",
+      "english_meaning": "Discussion aimed at reaching an agreement.",
+      "example": "Negotiation skills are vital for success.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "freelancer",
+      "meaning": "người làm tự do",
+      "english_meaning": "A person who works freelance.",
+      "example": "The freelancer delivered excellent work.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "benefit",
+      "meaning": "phúc lợi",
+      "english_meaning": "An advantage or profit gained from something.",
+      "example": "The benefit package includes health insurance.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "entrepreneur",
+      "meaning": "doanh nhân",
+      "english_meaning": "A person who sets up a business or businesses, taking on financial risks in the hope of profit.",
+      "example": "The entrepreneur launched a new product.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "productivity",
+      "meaning": "năng suất",
+      "english_meaning": "The effectiveness of productive effort, especially in industry, as measured in terms of the rate of output per unit of input.",
+      "example": "Productivity increased by 20% last year.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "leadership",
+      "meaning": "khả năng lãnh đạo",
+      "english_meaning": "The action of leading a group of people or an organization.",
+      "example": "Her leadership inspired the team.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "efficiency",
+      "meaning": "hiệu quả",
+      "english_meaning": "The state or quality of being efficient.",
+      "example": "Efficiency is key to reducing costs.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "supervision",
+      "meaning": "giám sát",
+      "english_meaning": "The action of supervising someone or something.",
+      "example": "Supervision is necessary for large projects.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "strategy",
+      "meaning": "chiến lược",
+      "english_meaning": "A plan of action designed to achieve a long-term or overall aim.",
+      "example": "The strategy worked perfectly.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "recruitment",
+      "meaning": "tuyển dụng",
+      "english_meaning": "The action of finding new people to join an organization or support a cause.",
+      "example": "Recruitment of new staff is ongoing.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "downsizing",
+      "meaning": "tinh giảm nhân sự",
+      "english_meaning": "Make (a company or organization) smaller by terminating the employment of a number of its employees.",
+      "example": "Downsizing can affect employee morale.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "collaboration",
+      "meaning": "hợp tác",
+      "english_meaning": "The action of working with someone to produce something.",
+      "example": "Collaboration between teams is essential.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "workload",
+      "meaning": "khối lượng công việc",
+      "english_meaning": "The amount of work to be done by a particular person or machine in a given period.",
+      "example": "The workload has increased recently.",
+      "isDifficult": false
+    }
+  ],
+  "relationship": [
+    {
+      "level": "A2",
+      "word": "friend",
+      "meaning": "bạn bè",
+      "english_meaning": "A person who you know well and who you like a lot.",
+      "example": "She is my best friend.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "family",
+      "meaning": "gia đình",
+      "english_meaning": "A group consisting of parents and children living together in a household.",
+      "example": "Family is very important to me.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "love",
+      "meaning": "tình yêu",
+      "english_meaning": "An intense feeling of deep affection.",
+      "example": "Love makes life beautiful.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "marriage",
+      "meaning": "hôn nhân",
+      "english_meaning": "The legally or formally recognized union of two people as partners in a personal relationship.",
+      "example": "Their marriage lasted 30 years.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "couple",
+      "meaning": "cặp đôi",
+      "english_meaning": "Two people who are married or in a romantic relationship.",
+      "example": "The couple celebrated their anniversary.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "parent",
+      "meaning": "cha mẹ",
+      "english_meaning": "A father or mother.",
+      "example": "My parents always support me.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "child",
+      "meaning": "trẻ em",
+      "english_meaning": "A young human being below the age of puberty or below the legal age of majority.",
+      "example": "The child is playing in the garden.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "sibling",
+      "meaning": "anh chị em ruột",
+      "english_meaning": "Each of two or more children or offspring having one or both parents in common; a brother or sister.",
+      "example": "My sibling is very kind.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "neighbor",
+      "meaning": "hàng xóm",
+      "english_meaning": "A person living near or next door to the speaker or person referred to.",
+      "example": "My neighbor is very friendly.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "relationship",
+      "meaning": "mối quan hệ",
+      "english_meaning": "The way in which two or more people or things are connected.",
+      "example": "Our relationship has grown stronger over time.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "boyfriend",
+      "meaning": "bạn trai",
+      "english_meaning": "A person's regular male companion with whom they have a romantic or sexual relationship.",
+      "example": "Her boyfriend is very caring.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "girlfriend",
+      "meaning": "bạn gái",
+      "english_meaning": "A person's regular female companion with whom they have a romantic or sexual relationship.",
+      "example": "My girlfriend is an artist.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "partner",
+      "meaning": "người yêu",
+      "english_meaning": "Either member of a married couple or of an established unmarried couple.",
+      "example": "They are business partners.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "engagement",
+      "meaning": "lễ đính hôn",
+      "english_meaning": "A formal agreement to get married.",
+      "example": "Their engagement was announced last week.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "divorce",
+      "meaning": "ly hôn",
+      "english_meaning": "The legal dissolution of a marriage by a court or other competent body.",
+      "example": "The couple went through a divorce.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "friendship",
+      "meaning": "tình bạn",
+      "english_meaning": "The emotions or conduct of friends; the state of being friends.",
+      "example": "Our friendship has lasted for years.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "support",
+      "meaning": "sự ủng hộ",
+      "english_meaning": "Give assistance to, especially financially; enable to function or act.",
+      "example": "She provided emotional support during tough times.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "trust",
+      "meaning": "niềm tin",
+      "english_meaning": "Firm belief in the reliability, truth, or ability of someone or something.",
+      "example": "Trust is the foundation of any relationship.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "bond",
+      "meaning": "mối liên kết",
+      "english_meaning": "A relationship between people or groups based on shared feelings, interests, or experiences.",
+      "example": "They share a strong bond.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "jealousy",
+      "meaning": "sự ghen tuông",
+      "english_meaning": "The state or feeling of being jealous.",
+      "example": "Jealousy can ruin relationships.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "acquaintance",
+      "meaning": "người quen",
+      "english_meaning": "A person one knows slightly, but who is not a close friend.",
+      "example": "We are just acquaintances.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "compromise",
+      "meaning": "sự thỏa hiệp",
+      "english_meaning": "An agreement or settlement of a dispute that is reached by each side making concessions.",
+      "example": "Compromise is necessary in any relationship.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "loyalty",
+      "meaning": "lòng trung thành",
+      "english_meaning": "The quality of being loyal to someone or something.",
+      "example": "Loyalty is one of her best qualities.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "conflict",
+      "meaning": "xung đột",
+      "english_meaning": "A serious disagreement or argument, typically a protracted one.",
+      "example": "Conflicts are normal in relationships.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "commitment",
+      "meaning": "sự cam kết",
+      "english_meaning": "The state or quality of being dedicated to a cause, activity, etc.",
+      "example": "They made a commitment to stay together.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "affection",
+      "meaning": "sự yêu thương",
+      "english_meaning": "A gentle feeling of fondness or liking.",
+      "example": "She shows great affection for her family.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "empathy",
+      "meaning": "sự thấu cảm",
+      "english_meaning": "The ability to understand and share the feelings of another.",
+      "example": "Empathy helps build strong connections.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "reconciliation",
+      "meaning": "sự hòa giải",
+      "english_meaning": "The restoration of friendly relations.",
+      "example": "Reconciliation took years to achieve.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "dependency",
+      "meaning": "sự phụ thuộc",
+      "english_meaning": "The state of relying on or being controlled by someone or something else.",
+      "example": "He has a dependency on his parents.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "reliability",
+      "meaning": "sự đáng tin cậy",
+      "english_meaning": "The quality of being trustworthy or of performing consistently well.",
+      "example": "Reliability is essential in a team.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "compatibility",
+      "meaning": "sự tương hợp",
+      "english_meaning": "A state in which two things are able to exist or occur together without problems or conflict.",
+      "example": "Compatibility is key in a long-term relationship.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "intimacy",
+      "meaning": "sự thân mật",
+      "english_meaning": "Close familiarity or friendship; closeness.",
+      "example": "Their intimacy grew over time.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "alienation",
+      "meaning": "sự xa lánh",
+      "english_meaning": "The state or experience of being isolated from a group or an activity to which one should belong or in which one should be involved.",
+      "example": "Alienation can lead to loneliness.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "estrangement",
+      "meaning": "sự ghẻ lạnh",
+      "english_meaning": "The fact of no longer being on friendly terms or part of a social group.",
+      "example": "Estrangement between siblings is heartbreaking.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "vulnerability",
+      "meaning": "sự dễ bị tổn thương",
+      "english_meaning": "The quality or state of being exposed to the possibility of being attacked or harmed, either physically or emotionally.",
+      "example": "Vulnerability is not a weakness.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "codependency",
+      "meaning": "sự phụ thuộc lẫn nhau",
+      "english_meaning": "A relationship in which one person enables another person's addiction, poor mental health, immaturity, irresponsibility, or under-achievement.",
+      "example": "Codependency can be unhealthy.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "rejection",
+      "meaning": "sự từ chối",
+      "english_meaning": "The dismissing or refusing of a proposal, idea, etc.",
+      "example": "Rejection is a part of life.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "forgiveness",
+      "meaning": "sự tha thứ",
+      "english_meaning": "The action or process of forgiving or being forgiven.",
+      "example": "Forgiveness can heal relationships.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "attachment",
+      "meaning": "sự gắn bó",
+      "english_meaning": "Affection, fondness, or sympathy for someone or something.",
+      "example": "Attachment to memories can be emotional.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "detachment",
+      "meaning": "sự tách biệt",
+      "english_meaning": "The state of being objective or aloof.",
+      "example": "Detachment helps in staying objective.",
+      "isDifficult": false
+    }
+  ],
+  "hobby": [
+    {
+      "level": "A2",
+      "word": "hobby",
+      "meaning": "sở thích",
+      "english_meaning": "An activity done regularly in one's leisure time for pleasure.",
+      "example": "Reading is my favorite hobby.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "music",
+      "meaning": "âm nhạc",
+      "english_meaning": "Vocal or instrumental sounds combined in such a way as to produce beauty of form, harmony, and expression of emotion.",
+      "example": "I love listening to music.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "reading",
+      "meaning": "đọc sách",
+      "english_meaning": "The action or skill of reading written or printed matter silently or aloud.",
+      "example": "She enjoys reading novels.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "drawing",
+      "meaning": "vẽ tranh",
+      "english_meaning": "A picture or diagram made with a pencil, pen, or crayon rather than paint.",
+      "example": "Drawing is very relaxing.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "cooking",
+      "meaning": "nấu ăn",
+      "english_meaning": "The practice or skill of preparing food by combining, mixing, and heating ingredients.",
+      "example": "Cooking is a relaxing activity.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "dancing",
+      "meaning": "nhảy múa",
+      "english_meaning": "Moving rhythmically to music, typically following a set sequence of steps.",
+      "example": "They often go dancing on weekends.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "painting",
+      "meaning": "sơn vẽ",
+      "english_meaning": "The action or skill of using paint, either in a picture or as decoration.",
+      "example": "He spends weekends painting.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "sports",
+      "meaning": "thể thao",
+      "english_meaning": "An activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment.",
+      "example": "Sports help me stay fit.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "gardening",
+      "meaning": "làm vườn",
+      "english_meaning": "The activity of tending and cultivating a garden, especially as a pastime.",
+      "example": "Gardening makes me feel calm.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "traveling",
+      "meaning": "du lịch",
+      "english_meaning": "Going from one place to another, typically over a distance of some length.",
+      "example": "Traveling to new places excites me.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "photography",
+      "meaning": "nhiếp ảnh",
+      "english_meaning": "The art or process of taking photographs.",
+      "example": "I took up photography last year.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "blogging",
+      "meaning": "viết blog",
+      "english_meaning": "Writing about a particular subject on a blog.",
+      "example": "He enjoys blogging about food.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "hiking",
+      "meaning": "đi bộ đường dài",
+      "english_meaning": "The activity of going for long walks, especially in the country or woods.",
+      "example": "Hiking in the mountains is adventurous.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "knitting",
+      "meaning": "đan len",
+      "english_meaning": "The craft or action of knitting.",
+      "example": "Knitting scarves is her passion.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "fishing",
+      "meaning": "câu cá",
+      "english_meaning": "The activity of catching fish, either for food or as a sport.",
+      "example": "Fishing by the lake is peaceful.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "baking",
+      "meaning": "làm bánh",
+      "english_meaning": "The action of cooking food by dry heat without direct exposure to a flame, typically in an oven.",
+      "example": "Baking cakes is her special talent.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "yoga",
+      "meaning": "tập yoga",
+      "english_meaning": "A Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation.",
+      "example": "Yoga keeps me flexible.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "cycling",
+      "meaning": "đạp xe",
+      "english_meaning": "The sport or activity of riding a bicycle.",
+      "example": "Cycling is a great way to explore.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "camping",
+      "meaning": "cắm trại",
+      "english_meaning": "The activity of spending a vacation living in a camp, tent, or camper.",
+      "example": "Camping under the stars is magical.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "writing",
+      "meaning": "viết lách",
+      "english_meaning": "The activity or skill of marking coherent words on paper and composing text.",
+      "example": "Writing stories helps me express myself.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "woodworking",
+      "meaning": "chế tác gỗ",
+      "english_meaning": "The activity or skill of making things from wood.",
+      "example": "Woodworking requires precision and skill.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "pottery",
+      "meaning": "làm đồ gốm",
+      "english_meaning": "The craft of making pots, dishes, and other things made of baked clay.",
+      "example": "Pottery allows for creativity.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "birdwatching",
+      "meaning": "ngắm chim",
+      "english_meaning": "The observation of birds in their natural habitat as a hobby.",
+      "example": "Birdwatching is a relaxing activity.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "calligraphy",
+      "meaning": "thư pháp",
+      "english_meaning": "Decorative handwriting or handwritten lettering.",
+      "example": "Calligraphy takes patience to master.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "sculpting",
+      "meaning": "điêu khắc",
+      "english_meaning": "The art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood or by casting metal or plaster.",
+      "example": "Sculpting clay is very rewarding.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "photobook",
+      "meaning": "sách ảnh",
+      "english_meaning": "A book with a photograph on the cover, or one containing many photographs.",
+      "example": "Photobooks capture precious memories.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "crafting",
+      "meaning": "thủ công",
+      "english_meaning": "The activity or hobby of making decorative articles by hand.",
+      "example": "Crafting gifts for friends is fun.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "board games",
+      "meaning": "trò chơi cờ bàn",
+      "english_meaning": "A game of strategy played by moving pieces on a board.",
+      "example": "We play board games every Friday.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "scrapbooking",
+      "meaning": "làm sổ lưu niệm",
+      "english_meaning": "The hobby of creating scrapbooks.",
+      "example": "Scrapbooking preserves memories creatively.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "volunteering",
+      "meaning": "tình nguyện",
+      "english_meaning": "Freely offer to do something.",
+      "example": "Volunteering is fulfilling.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "astrophotography",
+      "meaning": "nhiếp ảnh thiên văn",
+      "english_meaning": "Photography of astronomical objects, celestial events, and areas of the night sky.",
+      "example": "Astrophotography captures stunning views.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "origami",
+      "meaning": "gấp giấy nghệ thuật",
+      "english_meaning": "The Japanese art of folding paper into decorative shapes and figures.",
+      "example": "Origami requires creativity.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "jewelry making",
+      "meaning": "làm đồ trang sức",
+      "english_meaning": "The art or process of making jewelry.",
+      "example": "Jewelry making combines art and craftsmanship.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "homebrewing",
+      "meaning": "ủ bia tại nhà",
+      "english_meaning": "The brewing of beer, ale, etc., on a small scale for private consumption.",
+      "example": "Homebrewing beer is fun.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "foraging",
+      "meaning": "tìm thức ăn hoang dã",
+      "english_meaning": "(of a person or animal) search widely for food or provisions.",
+      "example": "Foraging connects people with nature.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "beekeeping",
+      "meaning": "nuôi ong",
+      "english_meaning": "The keeping of bees, especially on a large scale.",
+      "example": "Beekeeping supports the environment.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "antiquing",
+      "meaning": "sưu tầm đồ cổ",
+      "english_meaning": "Shopping for antiques.",
+      "example": "Antiquing is a journey into history.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "geocaching",
+      "meaning": "tìm kho báu địa lý",
+      "english_meaning": "The recreational activity of hunting for and finding a hidden object by means of GPS coordinates posted on a website.",
+      "example": "Geocaching turns travel into adventure.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "metalworking",
+      "meaning": "làm việc kim loại",
+      "english_meaning": "The process of working with metals to create individual parts, assemblies, or large-scale structures.",
+      "example": "Metalworking is both challenging and rewarding.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "restoration",
+      "meaning": "phục chế",
+      "english_meaning": "The action of returning something to a former owner, place, or condition.",
+      "example": "Restoration of old furniture brings it back to life.",
+      "isDifficult": false
+    }
+  ],
+  "weather": [
+    {
+      "level": "A2",
+      "word": "rain",
+      "meaning": "mưa",
+      "english_meaning": "Moisture condensed from the atmosphere that falls visibly in separate drops.",
+      "example": "It is raining outside.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "sun",
+      "meaning": "mặt trời",
+      "english_meaning": "The star around which the earth orbits.",
+      "example": "The sun is shining brightly.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "cloud",
+      "meaning": "mây",
+      "english_meaning": "A visible mass of water droplets suspended in the atmosphere.",
+      "example": "There are dark clouds in the sky.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "wind",
+      "meaning": "gió",
+      "english_meaning": "The perceptible natural movement of the air.",
+      "example": "The wind is blowing strongly.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "storm",
+      "meaning": "bão",
+      "english_meaning": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+      "example": "A storm is approaching.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "snow",
+      "meaning": "tuyết",
+      "english_meaning": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes.",
+      "example": "Snow covers the mountains.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "fog",
+      "meaning": "sương mù",
+      "english_meaning": "A thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface which obscures or restricts visibility.",
+      "example": "The fog makes it hard to see.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "cold",
+      "meaning": "lạnh",
+      "english_meaning": "Of or at a low or relatively low temperature.",
+      "example": "It is very cold today.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "hot",
+      "meaning": "nóng",
+      "english_meaning": "Having a high degree of heat or a high temperature.",
+      "example": "The weather is extremely hot.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "weather",
+      "meaning": "thời tiết",
+      "english_meaning": "The state of the atmosphere at a particular place and time as regards heat, cloudiness, dryness, sunshine, wind, rain, etc.",
+      "example": "I love this sunny weather.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "temperature",
+      "meaning": "nhiệt độ",
+      "english_meaning": "The degree or intensity of heat present in a substance or object.",
+      "example": "The temperature is below freezing.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "humidity",
+      "meaning": "độ ẩm",
+      "english_meaning": "The amount of water vapor in the air.",
+      "example": "High humidity makes it feel hotter.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "forecast",
+      "meaning": "dự báo",
+      "english_meaning": "A prediction or estimate of future events, especially of the weather.",
+      "example": "The forecast predicts rain tomorrow.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "breeze",
+      "meaning": "gió nhẹ",
+      "english_meaning": "A gentle wind.",
+      "example": "A gentle breeze is blowing.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "heatwave",
+      "meaning": "đợt nắng nóng",
+      "english_meaning": "A prolonged period of abnormally hot weather.",
+      "example": "The heatwave lasted for weeks.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "thunder",
+      "meaning": "sấm",
+      "english_meaning": "A loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air.",
+      "example": "I heard thunder in the distance.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "lightning",
+      "meaning": "chớp",
+      "english_meaning": "The occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud.",
+      "example": "Lightning struck a tree nearby.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "hail",
+      "meaning": "mưa đá",
+      "english_meaning": "Pellets of frozen rain which fall in showers from cumulonimbus clouds.",
+      "example": "Hail damaged the car roof.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "drizzle",
+      "meaning": "mưa phùn",
+      "english_meaning": "Light rain falling in very fine drops.",
+      "example": "There was light drizzle in the morning.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "mist",
+      "meaning": "màn sương",
+      "english_meaning": "A cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface that limits visibility (but to a lesser extent than fog).",
+      "example": "The mist created a magical scene.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "climate",
+      "meaning": "khí hậu",
+      "english_meaning": "The weather conditions prevailing in an area in general or over a long period.",
+      "example": "Climate change affects everyone.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "cyclone",
+      "meaning": "lốc xoáy",
+      "english_meaning": "A system of winds rotating inwards to an area of low atmospheric pressure.",
+      "example": "A cyclone hit the coastal area.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "drought",
+      "meaning": "hạn hán",
+      "english_meaning": "A prolonged period of abnormally low rainfall, leading to a shortage of water.",
+      "example": "The drought dried up the river.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "frost",
+      "meaning": "băng giá",
+      "english_meaning": "A deposit of small white ice crystals formed on the ground or other surfaces when the temperature falls below freezing.",
+      "example": "Frost covered the grass overnight.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "gale",
+      "meaning": "gió mạnh",
+      "english_meaning": "A very strong wind.",
+      "example": "The gale knocked down trees.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "monsoon",
+      "meaning": "gió mùa",
+      "english_meaning": "A seasonal prevailing wind in the region of South and Southeast Asia.",
+      "example": "The monsoon season brings heavy rain.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "overcast",
+      "meaning": "u ám",
+      "english_meaning": "Marked by a covering of gray clouds; dull.",
+      "example": "The sky is overcast with clouds.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "precipitation",
+      "meaning": "lượng mưa",
+      "english_meaning": "Rain, snow, sleet, or hail that falls to the ground.",
+      "example": "Precipitation levels are higher this year.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "atmosphere",
+      "meaning": "khí quyển",
+      "english_meaning": "The envelope of gases surrounding the earth or another planet.",
+      "example": "The atmosphere is filled with moisture.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "blizzard",
+      "meaning": "bão tuyết",
+      "english_meaning": "A severe snowstorm with high winds and low visibility.",
+      "example": "The blizzard made travel impossible.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "meteorology",
+      "meaning": "khí tượng học",
+      "english_meaning": "The branch of science concerned with the processes and phenomena of the atmosphere, especially as a means of forecasting the weather.",
+      "example": "Meteorology studies weather patterns.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "avalanche",
+      "meaning": "tuyết lở",
+      "english_meaning": "A mass of snow, ice, and rocks falling rapidly down a mountainside.",
+      "example": "An avalanche buried the village.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "temperature inversion",
+      "meaning": "nghịch nhiệt",
+      "english_meaning": "A reversal of the normal behaviour of temperature in the troposphere, in which a layer of cool air at the surface is overlain by a layer of warmer air.",
+      "example": "Temperature inversion traps pollution.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "microclimate",
+      "meaning": "vi khí hậu",
+      "english_meaning": "The climate of a very small or restricted area, especially when this differs from the climate of the surrounding area.",
+      "example": "A microclimate exists in urban areas.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "isobar",
+      "meaning": "đường đẳng áp",
+      "english_meaning": "A line on a map connecting points having the same atmospheric pressure at a given time or on average over a given period.",
+      "example": "Isobars are lines of equal pressure.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "anemometer",
+      "meaning": "máy đo gió",
+      "english_meaning": "An instrument for measuring the speed of the wind, or of any current of gas.",
+      "example": "An anemometer measures wind speed.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "dew point",
+      "meaning": "điểm sương",
+      "english_meaning": "The atmospheric temperature (varying according to pressure and humidity) below which water droplets begin to condense and dew can form.",
+      "example": "The dew point shows air saturation.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "stratosphere",
+      "meaning": "tầng bình lưu",
+      "english_meaning": "The layer of the earth's atmosphere above the troposphere.",
+      "example": "The stratosphere is above the troposphere.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "tornado",
+      "meaning": "vòi rồng",
+      "english_meaning": "A mobile, destructive vortex of violently rotating winds having the appearance of a funnel-shaped cloud.",
+      "example": "A tornado destroyed the barn.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "hurricane",
+      "meaning": "bão nhiệt đới",
+      "english_meaning": "A tropical storm with winds that have reached a constant speed of 74 miles per hour or more.",
+      "example": "Hurricanes are common in tropical areas.",
+      "isDifficult": false
+    }
+  ],
+  "technology": [
+    {
+      "level": "A2",
+      "word": "computer",
+      "meaning": "máy tính",
+      "english_meaning": "An electronic device for storing and processing data.",
+      "example": "I use a computer for work.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "phone",
+      "meaning": "điện thoại",
+      "english_meaning": "A system for transmitting voices over a distance using wire or radio.",
+      "example": "She called me on her phone.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "internet",
+      "meaning": "mạng internet",
+      "english_meaning": "A global computer network providing a variety of information and communication facilities.",
+      "example": "The internet is very fast here.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "email",
+      "meaning": "thư điện tử",
+      "english_meaning": "Messages distributed by electronic means from one computer user to one or more recipients via a network.",
+      "example": "I sent an email to my teacher.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "screen",
+      "meaning": "màn hình",
+      "english_meaning": "A flat panel or area on an electronic device such as a television, computer, or smartphone, on which images and data are displayed.",
+      "example": "The screen is too bright.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "keyboard",
+      "meaning": "bàn phím",
+      "english_meaning": "A panel of keys that operate a computer or typewriter.",
+      "example": "The keyboard is wireless.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "mouse",
+      "meaning": "chuột (máy tính)",
+      "english_meaning": "A hand-held pointing device that detects two-dimensional motion relative to a surface.",
+      "example": "I need a new mouse for my computer.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "camera",
+      "meaning": "máy ảnh",
+      "english_meaning": "A device for recording visual images in the form of photographs, film, or video signals.",
+      "example": "This camera takes amazing pictures.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "printer",
+      "meaning": "máy in",
+      "english_meaning": "A machine for printing text or pictures onto paper.",
+      "example": "The printer is out of ink.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "app",
+      "meaning": "ứng dụng",
+      "english_meaning": "A self-contained program or piece of software designed to fulfill a particular purpose.",
+      "example": "I downloaded a new app for fitness.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "software",
+      "meaning": "phần mềm",
+      "english_meaning": "The programs and other operating information used by a computer.",
+      "example": "This software needs an update.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "hardware",
+      "meaning": "phần cứng",
+      "english_meaning": "The physical parts of a computer system.",
+      "example": "The hardware of this device is durable.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "gadget",
+      "meaning": "thiết bị nhỏ gọn",
+      "english_meaning": "A small mechanical or electronic device or tool, especially an ingenious or novel one.",
+      "example": "He loves collecting gadgets.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "download",
+      "meaning": "tải xuống",
+      "english_meaning": "Copy (data) from one computer system to another, typically over the internet.",
+      "example": "I downloaded the file from the website.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "upload",
+      "meaning": "tải lên",
+      "english_meaning": "Transfer (data) from one computer to another, typically to one that is larger or remote from the user or functioning as a server.",
+      "example": "She uploaded her photos to the cloud.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "device",
+      "meaning": "thiết bị",
+      "english_meaning": "A thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.",
+      "example": "This device can track your heart rate.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "cloud",
+      "meaning": "đám mây",
+      "english_meaning": "A network of remote servers hosted on the Internet and used to store, manage, and process data.",
+      "example": "I saved all my files in the cloud.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "Wi-Fi",
+      "meaning": "Wi-Fi",
+      "english_meaning": "A facility allowing computers, smartphones, or other devices to connect to the Internet or communicate with one another wirelessly within a particular area.",
+      "example": "Does the Wi-Fi work here?",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "robot",
+      "meaning": "robot",
+      "english_meaning": "A machine capable of carrying out a complex series of actions automatically.",
+      "example": "Robots are used in many factories.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "virtual",
+      "meaning": "ảo",
+      "english_meaning": "Not physically existing as such but made by software to appear to do so.",
+      "example": "This game creates a virtual world.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "algorithm",
+      "meaning": "thuật toán",
+      "english_meaning": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
+      "example": "The algorithm calculates results quickly.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "encryption",
+      "meaning": "mã hóa",
+      "english_meaning": "The process of converting information or data into a code, especially to prevent unauthorized access.",
+      "example": "Encryption keeps your data secure.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "cybersecurity",
+      "meaning": "an ninh mạng",
+      "english_meaning": "The state of being protected against the criminal or unauthorized use of electronic data.",
+      "example": "Cybersecurity is essential for businesses.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "automation",
+      "meaning": "tự động hóa",
+      "english_meaning": "The use of largely automatic equipment in a system of manufacturing or other production process.",
+      "example": "Automation reduces human effort.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "innovation",
+      "meaning": "đổi mới",
+      "english_meaning": "The action or process of innovating.",
+      "example": "Innovation drives economic growth.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "artificial intelligence",
+      "meaning": "trí tuệ nhân tạo",
+      "english_meaning": "The theory and development of computer systems able to perform tasks that normally require human intelligence.",
+      "example": "Artificial intelligence shapes the future.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "data",
+      "meaning": "dữ liệu",
+      "english_meaning": "Facts and statistics collected together for reference or analysis.",
+      "example": "Data is collected from various sources.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "server",
+      "meaning": "máy chủ",
+      "english_meaning": "A computer or computer program which manages access to a centralized resource or service in a network.",
+      "example": "The server is down for maintenance.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "interface",
+      "meaning": "giao diện",
+      "english_meaning": "A point where two systems, subjects, organizations, etc. meet and interact.",
+      "example": "The interface is user-friendly.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "digital",
+      "meaning": "kỹ thuật số",
+      "english_meaning": "Relating to, using, or storing data or information in the form of digital signals.",
+      "example": "Digital tools are transforming education.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "nanotechnology",
+      "meaning": "công nghệ nano",
+      "english_meaning": "The branch of technology that deals with dimensions and tolerances of less than 100 nanometers, especially the manipulation of individual atoms and molecules.",
+      "example": "Nanotechnology has many applications.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "biotechnology",
+      "meaning": "công nghệ sinh học",
+      "english_meaning": "The exploitation of biological processes for industrial and other purposes, especially the genetic manipulation of microorganisms for the production of antibiotics, hormones, etc.",
+      "example": "Biotechnology advances medicine.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "quantum computing",
+      "meaning": "máy tính lượng tử",
+      "english_meaning": "A type of computing that uses the quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data.",
+      "example": "Quantum computing solves complex problems.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "augmented reality",
+      "meaning": "thực tế tăng cường",
+      "english_meaning": "A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.",
+      "example": "Augmented reality is used in gaming.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "blockchain",
+      "meaning": "chuỗi khối",
+      "english_meaning": "A system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers that are linked in a peer-to-peer network.",
+      "example": "Blockchain is used for secure transactions.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "3D printing",
+      "meaning": "in 3D",
+      "english_meaning": "The action or process of making a physical object from a three-dimensional digital model, typically by laying down many thin layers of a material in succession.",
+      "example": "3D printing is revolutionizing manufacturing.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "cyberattack",
+      "meaning": "cuộc tấn công mạng",
+      "english_meaning": "A malicious and deliberate attempt by an individual or organization to breach the information system of another individual or organization.",
+      "example": "A cyberattack can cause major disruptions.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "wearable technology",
+      "meaning": "công nghệ đeo",
+      "english_meaning": "A category of electronic devices that can be worn as accessories, embedded in clothing, implanted in the user's body, or even tattooed on the skin.",
+      "example": "Wearable technology tracks health metrics.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "big data",
+      "meaning": "dữ liệu lớn",
+      "english_meaning": "Extremely large data sets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions.",
+      "example": "Big data helps in decision-making.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "machine learning",
+      "meaning": "học máy",
+      "english_meaning": "The use and development of computer systems that are able to learn and adapt without following explicit instructions, by using algorithms and statistical models to analyze and draw inferences from patterns in data.",
+      "example": "Machine learning improves AI systems.",
+      "isDifficult": false
+    }
+  ],
+  "health": [
+    {
+      "level": "A2",
+      "word": "doctor",
+      "meaning": "bác sĩ",
+      "english_meaning": "A person with a medical degree whose job is to treat people who are ill or hurt.",
+      "example": "The doctor gave me some medicine.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "nurse",
+      "meaning": "y tá",
+      "english_meaning": "A person whose job is to care for people who are ill or injured, especially in a hospital.",
+      "example": "The nurse checked my temperature.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "medicine",
+      "meaning": "thuốc",
+      "english_meaning": "A substance that is used in treating disease or relieving pain.",
+      "example": "This medicine works quickly.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "hospital",
+      "meaning": "bệnh viện",
+      "english_meaning": "A place where people who are ill or injured are treated and taken care of by doctors and nurses.",
+      "example": "The hospital is very clean.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "pain",
+      "meaning": "đau",
+      "english_meaning": "A feeling of physical suffering caused by injury or illness.",
+      "example": "He complained of chest pain.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "health",
+      "meaning": "sức khỏe",
+      "english_meaning": "The condition of the body and the degree to which it is free from illness, or the state of being well.",
+      "example": "Health is the most important thing.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "sick",
+      "meaning": "bị ốm",
+      "english_meaning": "Affected by physical or mental illness.",
+      "example": "She felt sick after eating seafood.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "exercise",
+      "meaning": "tập thể dục",
+      "english_meaning": "Activity requiring physical effort, carried out to sustain or improve health and fitness.",
+      "example": "Exercise keeps you fit.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "food",
+      "meaning": "thức ăn",
+      "english_meaning": "Any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.",
+      "example": "We need healthy food to stay strong.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "sleep",
+      "meaning": "giấc ngủ",
+      "english_meaning": "A condition of body and mind which typically recurs for several hours every night, in which the nervous system is inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended.",
+      "example": "Good sleep is essential for health.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "diet",
+      "meaning": "chế độ ăn uống",
+      "english_meaning": "The kinds of food that a person, animal, or community habitually eats.",
+      "example": "She is on a special diet.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "injury",
+      "meaning": "chấn thương",
+      "english_meaning": "An instance of being injured.",
+      "example": "The injury will heal in two weeks.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "stress",
+      "meaning": "căng thẳng",
+      "english_meaning": "A state of mental or emotional strain or tension resulting from adverse or demanding circumstances.",
+      "example": "Stress can affect your health.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "symptom",
+      "meaning": "triệu chứng",
+      "english_meaning": "A physical or mental feature which is regarded as indicating a condition of disease.",
+      "example": "The symptoms started last week.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "treatment",
+      "meaning": "điều trị",
+      "english_meaning": "Medical care given to a patient for an illness or injury.",
+      "example": "He is receiving treatment for cancer.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "recovery",
+      "meaning": "hồi phục",
+      "english_meaning": "A return to a normal state of health, mind, or strength.",
+      "example": "Her recovery was faster than expected.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "disease",
+      "meaning": "bệnh tật",
+      "english_meaning": "A disorder of structure or function in a human, animal, or plant, especially one that produces specific signs or symptoms.",
+      "example": "This disease is very rare.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "check-up",
+      "meaning": "kiểm tra sức khỏe",
+      "english_meaning": "A thorough medical examination to see if a person is healthy.",
+      "example": "I go for a check-up every year.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "vaccine",
+      "meaning": "vắc-xin",
+      "english_meaning": "A substance used to stimulate the production of antibodies and provide immunity against one or several diseases.",
+      "example": "The vaccine is effective against the virus.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "headache",
+      "meaning": "đau đầu",
+      "english_meaning": "A continuous pain in the head.",
+      "example": "He has a headache after working long hours.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "mental health",
+      "meaning": "sức khỏe tinh thần",
+      "english_meaning": "A person’s condition with regard to their psychological and emotional well-being.",
+      "example": "Mental health is as important as physical health.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "immune system",
+      "meaning": "hệ miễn dịch",
+      "english_meaning": "The bodily system that protects the body from foreign substances, cells, and tissues by producing the immune response.",
+      "example": "A strong immune system fights infections.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "infection",
+      "meaning": "nhiễm trùng",
+      "english_meaning": "The process of infecting or the state of being infected.",
+      "example": "The infection spread rapidly.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "surgery",
+      "meaning": "phẫu thuật",
+      "english_meaning": "The treatment of injuries or disorders of the body by incision or manipulation with instruments.",
+      "example": "The surgery was a success.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "therapy",
+      "meaning": "liệu pháp",
+      "english_meaning": "Treatment intended to relieve or heal a disorder.",
+      "example": "He is in therapy for anxiety.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "cholesterol",
+      "meaning": "cholesterol",
+      "english_meaning": "A compound of the sterol type found in most body tissues.",
+      "example": "High cholesterol can cause heart problems.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "blood pressure",
+      "meaning": "huyết áp",
+      "english_meaning": "The pressure of the blood in the circulatory system.",
+      "example": "His blood pressure is normal.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "allergy",
+      "meaning": "dị ứng",
+      "english_meaning": "A damaging immune response by the body to a substance, especially a particular food, pollen, fur, or dust, to which it has become hypersensitive.",
+      "example": "She has a severe allergy to peanuts.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "antibiotic",
+      "meaning": "kháng sinh",
+      "english_meaning": "A medicine (such as penicillin or its derivatives) that inhibits the growth of or destroys microorganisms.",
+      "example": "The doctor prescribed antibiotics.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "diagnosis",
+      "meaning": "chẩn đoán",
+      "english_meaning": "The identification of the nature of an illness or other problem by examination of the symptoms.",
+      "example": "The diagnosis confirmed the disease.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "cardiovascular",
+      "meaning": "thuộc tim mạch",
+      "english_meaning": "Relating to the heart and blood vessels.",
+      "example": "Cardiovascular exercises strengthen the heart.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "respiratory",
+      "meaning": "thuộc hô hấp",
+      "english_meaning": "Relating to or affecting respiration or the organs of respiration.",
+      "example": "Respiratory diseases are common in winter.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "degenerative",
+      "meaning": "thoái hóa",
+      "english_meaning": "(of a disease or symptom) characterized by progressive, often irreversible deterioration, and loss of function in the organs or tissues.",
+      "example": "The condition is degenerative over time.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "malnutrition",
+      "meaning": "suy dinh dưỡng",
+      "english_meaning": "Lack of proper nutrition, caused by not having enough to eat, not eating enough of the right things, or being unable to use the food that one does eat.",
+      "example": "Malnutrition can lead to severe health problems.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "epidemic",
+      "meaning": "dịch bệnh",
+      "english_meaning": "A widespread occurrence of an infectious disease in a community at a particular time.",
+      "example": "The epidemic spread across the region.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "contagious",
+      "meaning": "dễ lây nhiễm",
+      "english_meaning": "(of a disease) spread from one person or organism to another by direct or indirect contact.",
+      "example": "Flu is highly contagious.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "pandemic",
+      "meaning": "đại dịch",
+      "english_meaning": "(of a disease) prevalent over a whole country or the world.",
+      "example": "The pandemic affected the entire world.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "vaccination",
+      "meaning": "tiêm chủng",
+      "english_meaning": "Treatment with a vaccine to produce immunity against a disease; inoculation.",
+      "example": "Vaccination campaigns have saved lives.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "quarantine",
+      "meaning": "cách ly",
+      "english_meaning": "A state, period, or place of isolation in which people or animals that have arrived from elsewhere or been exposed to infectious or contagious disease are placed.",
+      "example": "The patient was placed in quarantine.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "prognosis",
+      "meaning": "tiên lượng",
+      "english_meaning": "The likely course of a disease or ailment.",
+      "example": "The prognosis is positive for recovery.",
+      "isDifficult": false
+    }
+  ],
+  "house": [
+    {
+      "level": "A2",
+      "word": "house",
+      "meaning": "ngôi nhà",
+      "english_meaning": "A building for human habitation.",
+      "example": "This house is very spacious.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "room",
+      "meaning": "phòng",
+      "english_meaning": "A part or division of a building enclosed by walls, floor, and ceiling.",
+      "example": "The room is well-lit.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "kitchen",
+      "meaning": "nhà bếp",
+      "english_meaning": "A room or area equipped for preparing and cooking food.",
+      "example": "She is cooking in the kitchen.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "bathroom",
+      "meaning": "phòng tắm",
+      "english_meaning": "A room containing a toilet and sink and typically a bathtub or shower.",
+      "example": "The bathroom has a shower.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "bedroom",
+      "meaning": "phòng ngủ",
+      "english_meaning": "A room for sleeping in.",
+      "example": "Her bedroom is decorated in pink.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "living room",
+      "meaning": "phòng khách",
+      "english_meaning": "A room in a house for general and informal everyday use.",
+      "example": "We watch TV in the living room.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "garden",
+      "meaning": "vườn",
+      "english_meaning": "A piece of ground, often near a house, used for growing flowers, fruit, or vegetables.",
+      "example": "The garden is full of flowers.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "window",
+      "meaning": "cửa sổ",
+      "english_meaning": "An opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out.",
+      "example": "The window is open.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "door",
+      "meaning": "cửa",
+      "english_meaning": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard.",
+      "example": "He knocked on the door.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "stairs",
+      "meaning": "cầu thang",
+      "english_meaning": "A set of steps leading from one floor of a building to another.",
+      "example": "Be careful on the stairs.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "balcony",
+      "meaning": "ban công",
+      "english_meaning": "A platform enclosed by a wall or balustrade on the outside of a building, with access from an upper-floor window or door.",
+      "example": "The balcony has a great view.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "garage",
+      "meaning": "nhà để xe",
+      "english_meaning": "A building for housing a motor vehicle or vehicles.",
+      "example": "The garage is used for storage.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "furniture",
+      "meaning": "đồ nội thất",
+      "english_meaning": "The movable articles that are used to make a room or building suitable for living or working in.",
+      "example": "We bought new furniture for the house.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "floor",
+      "meaning": "sàn nhà",
+      "english_meaning": "The lower surface of a room, on which one may walk.",
+      "example": "The floor is made of wood.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "ceiling",
+      "meaning": "trần nhà",
+      "english_meaning": "The upper interior surface of a room or other similar compartment.",
+      "example": "The ceiling is painted white.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "wall",
+      "meaning": "tường",
+      "english_meaning": "A continuous vertical brick or stone structure that encloses or divides an area of land.",
+      "example": "The walls are decorated with pictures.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "roof",
+      "meaning": "mái nhà",
+      "english_meaning": "The structure forming the upper covering of a building or vehicle.",
+      "example": "The roof was repaired last week.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "hallway",
+      "meaning": "hành lang",
+      "english_meaning": "A corridor or passage in a building.",
+      "example": "The hallway leads to the bedrooms.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "attic",
+      "meaning": "gác mái",
+      "english_meaning": "A space or room just below the roof of a building.",
+      "example": "The attic is used for storage.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "basement",
+      "meaning": "tầng hầm",
+      "english_meaning": "The floor of a building which is partly or entirely below ground level.",
+      "example": "The basement is converted into a gym.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "architecture",
+      "meaning": "kiến trúc",
+      "english_meaning": "The art or practice of designing and constructing buildings.",
+      "example": "Modern architecture emphasizes functionality.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "renovation",
+      "meaning": "sự cải tạo",
+      "english_meaning": "The action of renovating a building.",
+      "example": "The house needs renovation.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "insulation",
+      "meaning": "sự cách nhiệt",
+      "english_meaning": "Material used to insulate something.",
+      "example": "Good insulation keeps the house warm.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "property",
+      "meaning": "bất động sản",
+      "english_meaning": "A building or buildings and the land belonging to it or them.",
+      "example": "The property is near the city center.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "apartment",
+      "meaning": "căn hộ",
+      "english_meaning": "A suite of rooms forming one residence, typically in a building containing a number of these.",
+      "example": "The apartment is fully furnished.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "studio",
+      "meaning": "phòng studio",
+      "english_meaning": "A one-room apartment.",
+      "example": "The studio is perfect for one person.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "terrace",
+      "meaning": "hiên nhà",
+      "english_meaning": "A paved area or platform next to a building; a patio or veranda.",
+      "example": "We relaxed on the terrace.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "chimney",
+      "meaning": "ống khói",
+      "english_meaning": "A vertical channel or pipe which conducts smoke and combustion gases up from a fire or furnace and typically through the roof of a building.",
+      "example": "Smoke was coming out of the chimney.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "plumbing",
+      "meaning": "hệ thống ống nước",
+      "english_meaning": "The system of pipes, drains, fittings, valves, and fixtures for the distribution of water for drinking, heating, and washing, and the removal of waterborne wastes.",
+      "example": "The plumbing system needs maintenance.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "landscaping",
+      "meaning": "cảnh quan sân vườn",
+      "english_meaning": "Improving the aesthetic appearance of (a piece of land) by changing its contours, adding ornamental features, or planting trees and shrubs.",
+      "example": "The landscaping enhances the house's beauty.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "aesthetics",
+      "meaning": "thẩm mỹ",
+      "english_meaning": "A set of principles concerned with the nature and appreciation of beauty, especially in art.",
+      "example": "Aesthetics play a crucial role in design.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "minimalism",
+      "meaning": "chủ nghĩa tối giản",
+      "english_meaning": "A trend in sculpture and painting that arose in the 1950s and used simple, typically massive, forms.",
+      "example": "Minimalism is a popular trend in home decor.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "sustainability",
+      "meaning": "bền vững",
+      "english_meaning": "The ability to be maintained at a certain rate or level.",
+      "example": "Sustainability is key in construction.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "penthouse",
+      "meaning": "căn hộ cao cấp",
+      "english_meaning": "An expensive and comfortable flat or set of rooms at the top of a tall building.",
+      "example": "The penthouse offers a stunning view.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "manor",
+      "meaning": "trang viên",
+      "english_meaning": "A large country house with lands.",
+      "example": "The manor is surrounded by lush gardens.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "bungalow",
+      "meaning": "nhà một tầng",
+      "english_meaning": "A low house, with a broad front porch, without an upper floor or with rooms set in the roof.",
+      "example": "They live in a cozy bungalow.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "villa",
+      "meaning": "biệt thự",
+      "english_meaning": "A large and luxurious country house in its own grounds.",
+      "example": "The villa is located by the sea.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "duplex",
+      "meaning": "nhà song lập",
+      "english_meaning": "A residential building divided into two apartments.",
+      "example": "The duplex is shared by two families.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "interior design",
+      "meaning": "thiết kế nội thất",
+      "english_meaning": "The art and science of enhancing the interior of a building to achieve a healthier and more aesthetically pleasing environment for the people using the space.",
+      "example": "Interior design focuses on function and beauty.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "home automation",
+      "meaning": "tự động hóa nhà ở",
+      "english_meaning": "The use of control systems, such as computers or remote controls, to operate a home's appliances and features.",
+      "example": "Home automation makes life convenient.",
+      "isDifficult": false
+    }
+  ],
+  "environment": [
+    {
+      "level": "A2",
+      "word": "tree",
+      "meaning": "cây",
+      "english_meaning": "A woody perennial plant, typically having a single stem or trunk growing to a considerable height.",
+      "example": "The tree is very tall.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "river",
+      "meaning": "sông",
+      "english_meaning": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+      "example": "The river flows through the village.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "mountain",
+      "meaning": "núi",
+      "english_meaning": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+      "example": "The mountain is covered with snow.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "forest",
+      "meaning": "rừng",
+      "english_meaning": "A large area covered chiefly with trees and undergrowth.",
+      "example": "We went hiking in the forest.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "beach",
+      "meaning": "bãi biển",
+      "english_meaning": "A pebbly or sandy shore, especially by the ocean between high- and low-water marks.",
+      "example": "The beach is crowded during summer.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "lake",
+      "meaning": "hồ",
+      "english_meaning": "A large body of water surrounded by land.",
+      "example": "We had a picnic by the lake.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "ocean",
+      "meaning": "đại dương",
+      "english_meaning": "A very large expanse of sea, in particular each of the main areas into which the sea is divided geographically.",
+      "example": "The ocean is vast and beautiful.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "air",
+      "meaning": "không khí",
+      "english_meaning": "The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.",
+      "example": "Clean air is essential for health.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "grass",
+      "meaning": "cỏ",
+      "english_meaning": "Vegetation consisting of typically short plants with long, narrow leaves, growing wild or cultivated on lawns and pasture.",
+      "example": "The grass is green after the rain.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "nature",
+      "meaning": "thiên nhiên",
+      "english_meaning": "The phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations.",
+      "example": "Nature is full of wonders.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "pollution",
+      "meaning": "ô nhiễm",
+      "english_meaning": "The presence in or introduction into the environment of a substance which has harmful or poisonous effects.",
+      "example": "Pollution harms the environment.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "recycle",
+      "meaning": "tái chế",
+      "english_meaning": "Convert (waste) into reusable material.",
+      "example": "We recycle paper to reduce waste.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "wildlife",
+      "meaning": "động vật hoang dã",
+      "english_meaning": "Wild animals collectively; the native fauna (and sometimes flora) of a region.",
+      "example": "Wildlife needs protection from humans.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "climate",
+      "meaning": "khí hậu",
+      "english_meaning": "The weather conditions prevailing in an area in general or over a long period.",
+      "example": "Climate change is a global issue.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "energy",
+      "meaning": "năng lượng",
+      "english_meaning": "The strength and vitality required for sustained physical or mental activity.",
+      "example": "Solar energy is renewable.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "plastic",
+      "meaning": "nhựa",
+      "english_meaning": "A synthetic material made from a wide range of organic polymers that can be molded into shape while soft and then set into a rigid or slightly elastic form.",
+      "example": "Plastic takes years to decompose.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "waste",
+      "meaning": "rác thải",
+      "english_meaning": "Material that is not wanted; the unusable remains or byproducts of something.",
+      "example": "Waste management is crucial in cities.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "ecosystem",
+      "meaning": "hệ sinh thái",
+      "english_meaning": "A biological community of interacting organisms and their physical environment.",
+      "example": "The ecosystem is delicate and needs care.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "habitat",
+      "meaning": "môi trường sống",
+      "english_meaning": "The natural home or environment of an animal, plant, or other organism.",
+      "example": "The polar bear's habitat is melting.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "global warming",
+      "meaning": "nóng lên toàn cầu",
+      "english_meaning": "A gradual increase in the overall temperature of the earth's atmosphere generally attributed to the greenhouse effect.",
+      "example": "Global warming affects all life forms.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "conservation",
+      "meaning": "sự bảo tồn",
+      "english_meaning": "The protection of animals, plants, and natural resources.",
+      "example": "Conservation efforts help save endangered species.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "sustainability",
+      "meaning": "bền vững",
+      "english_meaning": "The ability to be maintained at a certain rate or level.",
+      "example": "Sustainability is key for future generations.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "deforestation",
+      "meaning": "phá rừng",
+      "english_meaning": "The clearing of trees, transforming a forest into cleared land.",
+      "example": "Deforestation leads to loss of biodiversity.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "biodiversity",
+      "meaning": "đa dạng sinh học",
+      "english_meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
+      "example": "Biodiversity ensures ecosystem balance.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "carbon footprint",
+      "meaning": "dấu chân carbon",
+      "english_meaning": "The amount of carbon dioxide released into the atmosphere as a result of the activities of a particular individual, organization, or community.",
+      "example": "Reducing your carbon footprint is important.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "renewable",
+      "meaning": "có thể tái tạo",
+      "english_meaning": "(of a natural resource or source of energy) not depleted when used.",
+      "example": "Renewable resources are eco-friendly.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "extinction",
+      "meaning": "tuyệt chủng",
+      "english_meaning": "The state or process of a species, family, or larger group being or becoming extinct.",
+      "example": "Many species face extinction due to habitat loss.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "fossil fuels",
+      "meaning": "nhiên liệu hóa thạch",
+      "english_meaning": "A natural fuel such as coal or gas, formed in the geological past from the remains of living organisms.",
+      "example": "Fossil fuels contribute to global warming.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "pollutant",
+      "meaning": "chất gây ô nhiễm",
+      "english_meaning": "A substance that pollutes something, especially water or the atmosphere.",
+      "example": "Factories release pollutants into the air.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "natural disaster",
+      "meaning": "thảm họa thiên nhiên",
+      "english_meaning": "A natural event such as a flood, earthquake, or hurricane that causes great damage or loss of life.",
+      "example": "Natural disasters can devastate entire regions.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "ecology",
+      "meaning": "sinh thái học",
+      "english_meaning": "The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.",
+      "example": "Ecology studies the relationships in nature.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "environmental degradation",
+      "meaning": "suy thoái môi trường",
+      "english_meaning": "The deterioration of the environment through depletion of resources such as air, water and soil.",
+      "example": "Environmental degradation is a serious problem.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "overpopulation",
+      "meaning": "dân số quá đông",
+      "english_meaning": "The condition of being populated with excessively large numbers.",
+      "example": "Overpopulation puts pressure on resources.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "sustainable development",
+      "meaning": "phát triển bền vững",
+      "english_meaning": "Economic development that is conducted without depletion of natural resources.",
+      "example": "Sustainable development balances economy and ecology.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "greenhouse effect",
+      "meaning": "hiệu ứng nhà kính",
+      "english_meaning": "The trapping of the sun's warmth in a planet's lower atmosphere.",
+      "example": "The greenhouse effect contributes to climate change.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "microplastics",
+      "meaning": "vi nhựa",
+      "english_meaning": "Extremely small pieces of plastic debris in the environment resulting from the disposal and breakdown of consumer products and industrial waste.",
+      "example": "Microplastics are found in oceans worldwide.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "urbanization",
+      "meaning": "đô thị hóa",
+      "english_meaning": "The process of making an area more urban.",
+      "example": "Urbanization changes the natural landscape.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "organic farming",
+      "meaning": "nông nghiệp hữu cơ",
+      "english_meaning": "A method of crop and livestock production that involves much more than choosing not to use pesticides, fertilizers, genetically modified organisms, antibiotics and growth hormones.",
+      "example": "Organic farming avoids synthetic chemicals.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "environmental awareness",
+      "meaning": "nhận thức môi trường",
+      "english_meaning": "Understanding the importance of the environment and making choices that benefit the earth, rather than hurt it.",
+      "example": "Environmental awareness is increasing globally.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "carbon neutrality",
+      "meaning": "trung hòa carbon",
+      "english_meaning": "A state of net-zero carbon dioxide emissions.",
+      "example": "Carbon neutrality is a goal for many countries.",
+      "isDifficult": false
+    }
+  ],
+  "travel/transport": [
+    {
+      "level": "A2",
+      "word": "car",
+      "meaning": "ô tô",
+      "english_meaning": "A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor and able to carry a small number of people.",
+      "example": "I bought a new car last week.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "bus",
+      "meaning": "xe buýt",
+      "english_meaning": "A large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.",
+      "example": "The bus is late today.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "train",
+      "meaning": "tàu hỏa",
+      "english_meaning": "A series of connected railway carriages or wagons moved by a locomotive or by integral motors.",
+      "example": "She travels by train every weekend.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "plane",
+      "meaning": "máy bay",
+      "english_meaning": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces, driven forward by propellers or jet engines.",
+      "example": "The plane is ready for takeoff.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "bike",
+      "meaning": "xe đạp",
+      "english_meaning": "A bicycle or motorcycle.",
+      "example": "I ride my bike to school.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "boat",
+      "meaning": "thuyền",
+      "english_meaning": "A vessel for travel on water, propelled by oars, sails, or an engine.",
+      "example": "We crossed the river by boat.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "taxi",
+      "meaning": "xe taxi",
+      "english_meaning": "A motor vehicle licensed to transport passengers in return for payment of a fare.",
+      "example": "He called a taxi to go to the airport.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "road",
+      "meaning": "đường",
+      "english_meaning": "A wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use.",
+      "example": "The road is under construction.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "ticket",
+      "meaning": "vé",
+      "english_meaning": "A piece of paper or small card that gives the holder a certain right, as to enter a place, travel by public transport, or participate in an event.",
+      "example": "Please show me your ticket.",
+      "isDifficult": false
+    },
+    {
+      "level": "A2",
+      "word": "map",
+      "meaning": "bản đồ",
+      "english_meaning": "A diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.",
+      "example": "The map shows all the local attractions.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "journey",
+      "meaning": "chuyến đi",
+      "english_meaning": "An act of traveling from one place to another.",
+      "example": "The journey took three hours.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "passenger",
+      "meaning": "hành khách",
+      "english_meaning": "A traveler on a public or private conveyance other than the driver, pilot, or crew.",
+      "example": "The passenger asked for a window seat.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "driver",
+      "meaning": "người lái xe",
+      "english_meaning": "A person who drives a vehicle.",
+      "example": "The driver was very polite.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "station",
+      "meaning": "ga tàu",
+      "english_meaning": "A regular stopping place on a public transport route, especially one on a railway line.",
+      "example": "The train arrived at the station on time.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "luggage",
+      "meaning": "hành lý",
+      "english_meaning": "Suitcases or other bags in which to pack personal belongings for traveling.",
+      "example": "I forgot to pack my luggage.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "flight",
+      "meaning": "chuyến bay",
+      "english_meaning": "A journey made by air, especially in an airplane.",
+      "example": "Our flight has been delayed.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "destination",
+      "meaning": "điểm đến",
+      "english_meaning": "The place to which someone or something is going or being sent.",
+      "example": "Paris is our next destination.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "ferry",
+      "meaning": "phà",
+      "english_meaning": "A boat or ship for conveying passengers and goods, especially over a relatively short distance and as a regular service.",
+      "example": "We took a ferry across the sea.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "platform",
+      "meaning": "sân ga",
+      "english_meaning": "A raised level surface on which people or things can stand.",
+      "example": "Wait for me on the platform.",
+      "isDifficult": false
+    },
+    {
+      "level": "B1",
+      "word": "subway",
+      "meaning": "tàu điện ngầm",
+      "english_meaning": "An underground electric railway.",
+      "example": "The subway is the fastest way to get downtown.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "transportation",
+      "meaning": "giao thông",
+      "english_meaning": "The movement of humans, animals or goods from one location to another.",
+      "example": "Transportation in big cities can be challenging.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "commute",
+      "meaning": "đi lại (hằng ngày)",
+      "english_meaning": "Travel some distance between one's home and place of work on a regular basis.",
+      "example": "I commute to work by bus every day.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "navigation",
+      "meaning": "định vị",
+      "english_meaning": "The process or activity of accurately ascertaining one's position and planning and following a route.",
+      "example": "Navigation apps are helpful for drivers.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "itinerary",
+      "meaning": "hành trình",
+      "english_meaning": "A planned route or journey.",
+      "example": "Our itinerary includes visits to landmarks.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "sightseeing",
+      "meaning": "tham quan",
+      "english_meaning": "The activity of visiting places of interest in a particular location.",
+      "example": "We spent the afternoon sightseeing.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "carpooling",
+      "meaning": "đi chung xe",
+      "english_meaning": "The sharing of car journeys so that more than one person travels in a car.",
+      "example": "Carpooling reduces traffic and pollution.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "departure",
+      "meaning": "khởi hành",
+      "english_meaning": "The action of leaving, especially to start a journey.",
+      "example": "The departure time has been changed.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "arrival",
+      "meaning": "đến nơi",
+      "english_meaning": "The action or process of arriving.",
+      "example": "We arrived at the airport early.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "motorcycle",
+      "meaning": "xe máy",
+      "english_meaning": "A two-wheeled vehicle that is powered by a motor and has no pedals.",
+      "example": "Motorcycles are popular in this region.",
+      "isDifficult": false
+    },
+    {
+      "level": "B2",
+      "word": "highway",
+      "meaning": "đường cao tốc",
+      "english_meaning": "A main road, especially one connecting major towns or cities.",
+      "example": "The new highway connects major cities.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "aviation",
+      "meaning": "hàng không",
+      "english_meaning": "The flying or operating of aircraft.",
+      "example": "Aviation plays a crucial role in travel.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "customs",
+      "meaning": "hải quan",
+      "english_meaning": "The official department that administers and collects the duties levied by a government on imported goods.",
+      "example": "You must declare items at customs.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "immigration",
+      "meaning": "nhập cư",
+      "english_meaning": "The action of coming to live permanently in a foreign country.",
+      "example": "Immigration took a long time.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "expedition",
+      "meaning": "chuyến thám hiểm",
+      "english_meaning": "A journey undertaken by a group of people with a particular purpose, especially that of exploration, research, or war.",
+      "example": "The expedition explored the rainforest.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "layover",
+      "meaning": "thời gian chờ",
+      "english_meaning": "A period of rest or waiting before a further stage in a journey.",
+      "example": "We had a layover in Singapore.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "backpacking",
+      "meaning": "du lịch bụi",
+      "english_meaning": "Traveling or hiking with a backpack.",
+      "example": "Backpacking through Europe was unforgettable.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "cruise",
+      "meaning": "du thuyền",
+      "english_meaning": "A voyage on a ship or boat taken for pleasure or as a holiday and visiting several places.",
+      "example": "The cruise stopped at several islands.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "hitchhiking",
+      "meaning": "đi nhờ xe",
+      "english_meaning": "Travel by getting free lifts in passing vehicles.",
+      "example": "Hitchhiking can be risky but fun.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "urban transport",
+      "meaning": "giao thông đô thị",
+      "english_meaning": "The transport of people and goods within cities.",
+      "example": "Urban transport is improving.",
+      "isDifficult": false
+    },
+    {
+      "level": "C1",
+      "word": "sustainable travel",
+      "meaning": "du lịch bền vững",
+      "english_meaning": "Travel that is environmentally, socially, and economically sustainable.",
+      "example": "Sustainable travel reduces environmental impact.",
+      "isDifficult": false
+    }
+  ]
+}
